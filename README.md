@@ -26,3 +26,6 @@
 - <b>Writeups are made in CherryTree Software</b>
 
 <h1>NOTE: Download Writeups and open in CherryTree Software for best experience</h1>
+
+<h2>Rank as of 09/27/2023</h2>
+![HackerMilestonecroped](https://github.com/ZtheAPT/HacktheBox-Writeups/assets/145877472/363d35d3-6b9b-44b8-ad44-7d2b415c8afc)
