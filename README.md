@@ -25,6 +25,6 @@
 - <b>All Writeups have flags masked to prevent spoilers </b>
 - <b>Writeups are made in CherryTree Software</b>
 
-<h1>NOTE: Download Writeups and open in CherryTree Software for best experience</h1>
+<h1>NOTE: Download raw Writeups and open in CherryTree Software for best experience of the original writeup. For convenience, I have added PDF copies as well. Although, the PDF copies become misaligned. </h1>
 
 
